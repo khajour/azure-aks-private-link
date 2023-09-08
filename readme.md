@@ -36,7 +36,7 @@ metadata:
     service.beta.kubernetes.io/azure-pls-ip-configuration-subnet: YOUR_PLS_SUBNET_NAME
     service.beta.kubernetes.io/azure-pls-ip-configuration-ip-address-count: "1"
     # The following IP address must be available in pls-subnet
-    service.beta.kubernetes.io/azure-pls-ip-configuration-ip-address: 10.224.10.10 
+    service.beta.kubernetes.io/azure-pls-ip-configuration-ip-address: YOUR_PLS_IP_ADDRESS
     service.beta.kubernetes.io/azure-pls-fqdns: "akfqdn001"
     service.beta.kubernetes.io/azure-pls-proxy-protocol: "false"
     service.beta.kubernetes.io/azure-pls-visibility: "*"
