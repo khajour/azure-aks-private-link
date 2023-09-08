@@ -1,6 +1,9 @@
-## Azure AKS With Private Link 
+# How to create a Private Link Service from an AKS internal load balancer
 Author: Abdelaziz KHAJOUR 
 (Azure Cloud Solution Architect)
+
+This repository shows an example to create an Azure Private Link from an Azure Kubernetes Services internal load balancer to share you aks service to others.
+
 
 ## Architecture
 
