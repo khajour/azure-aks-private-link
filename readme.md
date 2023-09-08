@@ -77,7 +77,11 @@ spec:
 ```
 
 
-## Check created Private Link in Azure portal
-![Azure Monitor](aks-pls-03.png)
+## Check the created Private Link in Azure portal
+![Azure Monitor](aks-pls-003.png)
 
 ## Check the created Internal Load Balancer in Azure Portal
+
+![Azure Monitor](aks-ilb-003.png)
+
+Thank you for your suggestions
